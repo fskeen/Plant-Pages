@@ -416,7 +416,7 @@ header h1 {
   padding: 4rem;
   padding-top: 1rem;
   color: white;
-  background-color: whitesmoke;
+  
 }
 .main-dash-container .garden-content .garden-cards .plant-card {
   box-shadow: 2px 2px 5px grey;
@@ -516,4 +516,8 @@ header h1 {
   color: #35d0ff;
   text-align: left;
   width: 50%;
+}
+
+.main-dash-container {
+  background-color: whitesmoke;
 }
